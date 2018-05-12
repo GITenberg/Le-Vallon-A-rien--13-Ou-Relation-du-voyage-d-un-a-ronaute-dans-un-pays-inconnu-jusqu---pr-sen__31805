@@ -1,0 +1,35 @@
+_repo: Le-Vallon-A-rien--13-Ou-Relation-du-voyage-d-un-a-ronaute-dans-un-pays-inconnu-jusqu---pr-sen__31805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mosneron de Launay, Jean-Baptiste, baron
+    aliases:
+    - De Launay, Jean-Baptiste, baron Mosneron
+    - Launay, Jean-Baptiste, baron Mosneron de
+    birthdate: 1738
+    deathdate: 1830
+    gutenberg_agent_id: '35479'
+    url: http://www.gutenberg.org/2009/agents/35479
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31805'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Huguenots -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Balloons -- Fiction'
+title: "Le Vallon Aérien\r\nOu, Relation du voyage d'un aéronaute dans un pays inconnu\
+  \ jusqu'à présent; suivie de l'histoire de ses habitans et de la description de\
+  \ leurs moeurs"
+url: http://www.gutenberg.org/ebooks/31805
