@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35479'
     url: http://www.gutenberg.org/2009/agents/35479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31805#Le-Vallon-A-rien--13-Ou-Relation-du-voyage-d-un-a-ronaute-dans-un-pays-inconnu-jusqu---pr-sen_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
